@@ -2,7 +2,7 @@
     "name": "libphoenix",
     "description": "The Phoenix Framework javascript library transpiled for node.",
     "license": "MIT",
-    "version": "0.14.0",
+    "version": "1.0.1",
     "repository": {
         "type": "git",
         "url": "https://github.com/Nekroze/libphoenix.git"
